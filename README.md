@@ -25,10 +25,9 @@ Then we can say that the posterior distribution, that one which the mean fits, i
 So the posterior distribution for mu is Gamma(0 + Sum(y) , 0 + n), which 'y' is the fatals and 'n' is the number of observations.
 *Now we can draw the posterior*
 
-+ This is the Posterior Curve
 [![Posterior Curve](https://s11.postimg.org/olc31lu8z/Posterior.png)](https://postimg.org/image/nj1wj2bfj/)
 
-+ *red line is mean and the blue line is median.*
+*red line is mean and the blue line is median.*
 
 + Then we have to implement the jags model which we have to cat it in R and store it in a `file.jag` as it being in `example-rjags.R` script.
 Follow the script to make this model you've already cat be ready to run. You have to initialize some values and set how much iterations you want to make. In the end you have the plots of what you have done.
