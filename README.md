@@ -10,8 +10,8 @@ It is an easy way to getting started with the R-Jags Library.
 
 ## Installing Jags in R.
 ```R
-install.packages("rjags") #this will istall the package
-library(rjags) #this will load the package and make it usage
+install.packages("rjags") #this will install the package
+library(rjags) #this will load the package and make it usable
 ```
 
 ###Things about the example
