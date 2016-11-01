@@ -1,6 +1,6 @@
 # Easy-R_Jags example
 
-R_Jags is an open_source library (package) for developing Bugs commands in R enviroment. In other words, it's a very serius and  confident tool to implement MCMC equations in R.
+R_Jags is an open_source library (package) for developing Bugs commands in R enviroment. In other words, it's a very important and  confident tool to implement MCMC equations in R.
 In this example we have the airline.csv dataset and we want to estimate airplane fatals with some baysian models.
 It is an easy way to getting started with the R-Jags Library.
 
