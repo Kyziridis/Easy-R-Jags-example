@@ -14,7 +14,7 @@ install.packages("rjags") #this will install the package
 library(rjags) #this will load the package and make it usable
 ```
 
-###Some things about the example
+### Some things about the example
 
 + This example which specifies the estimation of airplain fatals, is based on statistical baysian theory. So we have to use statistical theory and imagination too!
 Imagination because in baysian problems we need to imagine of which distribution the data have been generated. 
