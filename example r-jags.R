@@ -7,7 +7,7 @@ library(rjags)
 #fix the working directory and insert the airline data_set
 wd <-getwd()
 if (wd != "/media/NTFS1/5_Documents/BDA2012") {
-  setwd("/media/NTFS1/5_Documents/BDA2012")
+  setwd("YOUR_PATH") #Use appropriate slashes
 }
 airline <- read.csv( "airline.csv" )
 
